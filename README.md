@@ -12,11 +12,11 @@ Este repositorio contiene todos los ejercicios, proyectos y apuntes que estoy re
 - `proyectos/`: Pequeñas aplicaciones funcionales.
 - `requirements.txt`: Librerías necesarias para ejecutar los scripts.
 
-## 🛠️ Herramientas Utilizadas
+## Herramientas Utilizadas
 
 - **Lenguaje:** Python 3.13.12
 - **IDE:** VS Code
-- **Librerías principales:** ??
+- **Librerías principales:** --
 
 ## Conceptos Aprendidos
 
