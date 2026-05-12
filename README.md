@@ -4,7 +4,9 @@ Este repositorio contiene todos los ejercicios, proyectos y apuntes que estoy re
 
 ## Estructura del Repositorio
 
-- `inicio/`: Tu primer programa en Python
+- `Inicio/`: Tu primer programa en Python "Hola_mundo.py"
+- `Conceptos básicos de la sintaxis en Python/`
+- `Fundamentos de Python`
 - `clases/`: Notas teóricas y ejemplos de cada sesión.
 - `ejercicios/`: Retos y problemas resueltos.
 - `proyectos/`: Pequeñas aplicaciones funcionales.
