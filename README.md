@@ -6,7 +6,7 @@ Este repositorio contiene todos los ejercicios, proyectos y apuntes que estoy re
 
 - `Inicio/`: Tu primer programa en Python "Hola_mundo.py"
 - `Conceptos básicos de la sintaxis en Python/`: Identación, condicionales, como agregar comentarios de una o más lineas, sensibilidad de mayúsculas y minúsculas, punto y coma y uso de parentésis
-- `Fundamentos de Python`
+- `Fundamentos de Python`: tipos de datos básicos, flotantes, cadenas de texto, booleans,
 - `clases/`: Notas teóricas y ejemplos de cada sesión.
 - `ejercicios/`: Retos y problemas resueltos.
 - `proyectos/`: Pequeñas aplicaciones funcionales.
