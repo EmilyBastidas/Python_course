@@ -1,6 +1,6 @@
 # Curso de Python
 
-Este repositorio contiene todos los ejercicios, proyectos y apuntes que estoy realizando durante mi aprendizaje de Python. El objetivo es documentar mi progreso y tener una referencia rápida de los conceptos clave.
+Este repositorio contiene todos los ejercicios, proyectos y apuntes que estoy realizando durante mi aprendizaje de Python. El objetivo es documentar mi progreso y tener una referencia rápida de los conceptos clave la idea es orientar a las personas que quieran aprender de Python y tener una guia exacta para principiantes.
 
 ## Estructura del Repositorio
 
