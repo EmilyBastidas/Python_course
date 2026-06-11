@@ -45,3 +45,5 @@ if # Palabra clave reservada de Python
 SOA_LID_Ten en cuenta.png
 
 # Ten en cuenta Elegir nombres descriptivos para tus variables facilita la lectura y comprensión del código, tanto para ti como para otros desarrolladores que puedan trabajar en el mismo proyecto.
+
+
